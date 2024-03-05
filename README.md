@@ -21,8 +21,8 @@ Du kannst die Hintergrundbilder einfach herunterladen 🤗.
 
 <p align="center">
   <img src="Assets/Bild-1.jpg" width="33%" />
-  <img src="Assets/Bild-2.jpg" width="33%" /> 
-  <img src="Assets/Bild-3.jpg" width="33%" />
+  <img src="Assets/Bild-3.jpg" width="33%" /> 
+  <img src="Assets/Bild-2.jpg" width="33%" />
 </p>
 
 
