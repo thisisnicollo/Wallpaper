@@ -15,6 +15,7 @@ Ob du ein Fan von Blumen, Bäumen, Tieren oder Landschaften bist, hier ist für 
 Schau dich um und finde das perfekte Wallpaper für dich 🧸💻🤍!
 
 *Englisch version*
+
 March is here, and spring is getting closer and closer! It's the time when nature awakens, flowers bloom, and the days grow longer. To celebrate this wonderful season, I've put together a collection of suitable wallpapers for March and the upcoming spring. 🌷✨
 
 What could be more beautiful than adorning your desktop, tablet, or smartphone with a fresh and colorful background? 🌸🌿 Here you'll find selected wallpapers with calendars and beautiful motifs from nature that will inspire and motivate you. 🌼🌈 Whether you're a fan of flowers, trees, animals, or landscapes, there's something for every taste here. 🌺🐦🌳🌄
@@ -29,6 +30,7 @@ Du kannst die Hintergrundbilder einfach herunterladen 🤗.
 Eine genaue Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
 
 *Englisch version*
+
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
 You can simply download the wallpapers 🤗.
@@ -54,6 +56,7 @@ Ich möchte sicherstellen, dass alle Rechte Respektiert werden und darum die ent
 Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt.
 
 *Englisch version*
+
 Logos and trademarks in these wallpapers belong to their respective owners. I want to clarify that I do not claim any rights or ownership to them. The images have been provided by talented photographers on Unsplash, Pexels, and Pixabay and are perfect for beautifying your desktop, tablet, or smartphone. I thank them for their generous and creative work. 🙏
 
 The use of the wallpapers is strictly for private purposes only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
