@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/March_2024_Wallpaper.jpg" alt="März 2024 Wallpaper Titel" width="">
+  <img src="Assets/March_2024_Wallpaper1.jpg" alt="März 2024 Wallpaper Titel" width="">
 </p>
 
 *English below*
