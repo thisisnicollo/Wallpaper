@@ -29,7 +29,6 @@ Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzu
 3. Klicke auf das entsprechende Paket (zip).
 4. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
-
 Eine genaue Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
 
 *Englisch version*
