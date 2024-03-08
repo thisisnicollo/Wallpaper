@@ -24,7 +24,7 @@ Take a look around and find the perfect wallpaper for you! 🧸💻🤍
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
-1. Gehe rechts auf [Releases]((https://github.com/thisisnicollo/March_2024_Wallpaper/releases).
+1. Gehe rechts auf [Releases](https://github.com/thisisnicollo/March_2024_Wallpaper/releases).
 2. Wähle die gewünschte Sprache und Gerätekategorie (z.B. Deutsch/Desktop) aus.
 3. Klicke auf das entsprechende Paket (zip).
 4. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
@@ -37,7 +37,7 @@ Eine genaue Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https:/
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
 **Download instructions:**
-1. go to [Releases]((https://github.com/thisisnicollo/March_2024_Wallpaper/releases) on the right.
+1. go to [Releases](https://github.com/thisisnicollo/March_2024_Wallpaper/releases) on the right.
 2. select the desired language and device category (e.g. English/Desktop).
 3. click on the corresponding package (zip).
 4. unzip the ZIP file and use the contained images as background on your devices.
