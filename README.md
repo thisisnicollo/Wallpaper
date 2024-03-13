@@ -127,7 +127,7 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
 </p>
 
 #### 🇺🇸 [English](Tablet/English)
-<p align="center">
+<div id="english"></div> <p align="center"> 
   <img src="Tablet/English/02_Tablet_EN.png" width="15%" />
   <img src="Tablet/English/12_Tablet_EN.jpg" width="15%" />
   <img src="Tablet/English/03_Tablet_EN.png" width="15%" />
@@ -140,7 +140,7 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
   <img src="Tablet/English/10_Tablet_EN.jpg" width="15%" />
   <img src="Tablet/English/06_Tablet_EN.jpg" width="15%" />
   <img src="Tablet/English/11_Tablet_EN.jpg" width="15%" />
-<div id="english"></div> </p>
+</p>
 
 
 # 🖼️ March 2024 Wallpaper
