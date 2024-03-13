@@ -38,7 +38,7 @@ Ich möchte sicherstellen, dass alle Rechte Respektiert werden und darum die ent
 Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt. <div id="english"></div> 
 
 ## 🖥️ Alle Wallpaper
-Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlich. Die Kalender sind auf Deutsch und Englisch verfügbar.
+Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlich. Die Kalender sind auf Deutsch und Englisch verfügbar. <br>
 [⏬🌷Wallpaper Vorschau](#wallpaper)
 
 
