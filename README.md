@@ -8,7 +8,7 @@ Der März ist da und der Frühling rückt immer näher! Es ist die Zeit, in der 
 
 Schau dich um und finde das perfekte Wallpaper für dich 🧸💻🤍!
 
-[⏬English below](#english)
+[⏬🌷Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
 
 ## 📥 Nutzung
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
@@ -35,10 +35,49 @@ Die Nutzung der Wallpaper ist ausschließlich für private Zwecke bestimmt. Jegl
 Kontaktiere mich bitte umgehend, wenn eine Kennzeichung erwünscht ist!
 Ich möchte sicherstellen, dass alle Rechte Respektiert werden und darum die entsprechende Maßnahmen ergreifen oder auf wunsch das betreffende Bild entfernen.
 
-Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt.
+Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt. <div id="english"></div> 
 
 ## 🖥️ Alle Wallpaper
 Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlich. Die Kalender sind auf Deutsch und Englisch verfügbar.
+[⏬🌷Wallpaper Vorschau](#wallpaper)
+
+
+# 🖼️ March 2024 Wallpaper
+
+March is here, and spring is getting closer and closer! It's the time when nature awakens, flowers bloom, and the days grow longer. To celebrate this wonderful season, I've put together a collection of suitable wallpapers for March and the upcoming spring. 🌷✨
+
+Take a look around and find the perfect wallpaper for you! 🧸💻🤍
+
+## 📥 Usage
+Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
+
+**Download instructions:**
+1. go to [Releases](https://github.com/thisisnicollo/March_2024_Wallpaper/releases) on the right.
+2. select the desired language and device category (e.g. English/Desktop).
+3. click on the corresponding package (zip).
+4. unzip the ZIP file and use the contained images as background on your devices.
+
+You can find detailed instructions for downloading here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
+
+<p align="center">
+  <img src="Assets/Bild-1.jpg" width="33%" />
+  <img src="Assets/Bild-3.jpg" width="33%" /> 
+  <img src="Assets/Bild-2.jpg" width="33%" />
+</p>
+
+## 📄 Disclaimer
+Logos and trademarks in these wallpapers belong to their respective owners. I want to clarify that I do not claim any rights or ownership to them. The images have been provided by talented photographers on Unsplash, Pexels, and Pixabay and are perfect for beautifying your desktop, tablet, or smartphone. I thank them for their generous and creative work. 🙏
+
+The use of the wallpapers is strictly for private purposes only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
+
+Please contact me promptly if attribution is desired!
+I want to ensure that all rights are respected and will take appropriate action or remove the relevant image upon request.
+
+This collection were created by [thisisnicollo](https://github.com/thisisnicollo).
+<div id="wallpaper"></div> 
+
+## 🖥️ All Wallpapers
+The Wallpapers are available for desktop, smartphone and tablet.
 
 ### 🖥️ [Desktop](Desktop)
 
@@ -127,7 +166,7 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
 </p>
 
 #### 🇺🇸 [English](Tablet/English)
-<div id="english"></div> <p align="center"> 
+<p align="center"> 
   <img src="Tablet/English/02_Tablet_EN.png" width="15%" />
   <img src="Tablet/English/12_Tablet_EN.jpg" width="15%" />
   <img src="Tablet/English/03_Tablet_EN.png" width="15%" />
@@ -141,41 +180,3 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
   <img src="Tablet/English/06_Tablet_EN.jpg" width="15%" />
   <img src="Tablet/English/11_Tablet_EN.jpg" width="15%" />
 </p>
-
-
-# 🖼️ March 2024 Wallpaper
-
-March is here, and spring is getting closer and closer! It's the time when nature awakens, flowers bloom, and the days grow longer. To celebrate this wonderful season, I've put together a collection of suitable wallpapers for March and the upcoming spring. 🌷✨
-
-Take a look around and find the perfect wallpaper for you! 🧸💻🤍
-
-## 📥 Usage
-Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
-
-**Download instructions:**
-1. go to [Releases](https://github.com/thisisnicollo/March_2024_Wallpaper/releases) on the right.
-2. select the desired language and device category (e.g. English/Desktop).
-3. click on the corresponding package (zip).
-4. unzip the ZIP file and use the contained images as background on your devices.
-
-You can find detailed instructions for downloading here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
-
-<p align="center">
-  <img src="Assets/Bild-1.jpg" width="33%" />
-  <img src="Assets/Bild-3.jpg" width="33%" /> 
-  <img src="Assets/Bild-2.jpg" width="33%" />
-</p>
-
-## 📄 Disclaimer
-Logos and trademarks in these wallpapers belong to their respective owners. I want to clarify that I do not claim any rights or ownership to them. The images have been provided by talented photographers on Unsplash, Pexels, and Pixabay and are perfect for beautifying your desktop, tablet, or smartphone. I thank them for their generous and creative work. 🙏
-
-The use of the wallpapers is strictly for private purposes only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
-
-Please contact me promptly if attribution is desired!
-I want to ensure that all rights are respected and will take appropriate action or remove the relevant image upon request.
-
-This collection were created by [thisisnicollo](https://github.com/thisisnicollo).
-
-## 🖥️ All Wallpapers
-The Wallpapers are available for desktop, smartphone and tablet.
-
