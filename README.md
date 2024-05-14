@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="Assets/04_2024_Wallpaper.jpg" alt="April 2024 Wallpaper Titel" width="">
+  <img src="Assets/05_2024_Wallpaper" alt="Mai 2024 Wallpaper Titel" width="">
 </p>
 
-# 🖼️ April 2024 Wallpaper 
+# 🖼️ Mai 2024 Wallpaper 
 
-Der April ist endlich da,! Die Natur erwacht, die Blumen beginnen zu blühen, und die Tage werden länger.🐇🌸
-Um diese zauberhafte Jahreszeit zu feiern, habe ich eine Sammlung passender Wallpaper für den April zusammengestellt. 
+🇩🇪
+Die Natur ist in voller Blüte, die Bäume sind grün, und die Tage sind warm und sonnig. 🍃🌞 
+Es ist Mai und passend dazu gibt es die neuen Wallpaper! 💻🙌🏼
 
-Wähle dein Lieblings-Wallpaper und genieße den Frühling in vollen Zügen! 🌷🤍!
+Wähle dein Lieblings-Wallpaper und genieße den Frühling in vollen Zügen! 🌼🤍
+
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
 
@@ -15,8 +17,8 @@ Wähle dein Lieblings-Wallpaper und genieße den Frühling in vollen Zügen! �
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
-1. Gehe rechts auf [Releases](https://github.com/thisisnicollo/March_2024_Wallpaper/releases).
-2. Wähle die gewünschte Sprache und Gerätekategorie (z.B. Deutsch/Desktop) aus.
+1. Gehe rechts auf [Releases](https://github.com/thisisnicollo/Wallpaper/releases).
+2. Wähle die gewünschte Sprache (z.B. Deutsch) aus.
 3. Klicke auf das entsprechende Paket (zip).
 4. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
@@ -39,23 +41,25 @@ Ich möchte sicherstellen, dass alle Rechte Respektiert werden und darum die ent
 Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt. <div id="english"></div> 
 
 ## 🖥️ Alle Wallpaper
-Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlich. Die Kalender sind auf Deutsch und Englisch sowie auch in zwei Schriftarten verfügbar. <br>
+Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlich. Die Kalender auf Deutsch sowie auf Englisch erhältlich. <br>
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ April 2024 Wallpaper
+# 🖼️ May 2024 Wallpaper
 
-April is finally here! Nature is awakening, the flowers are starting to bloom and the days are getting longer.🐇🌸 
-To celebrate this magical time of year, I've put together a collection of suitable wallpapers for April. 
+🇺🇸
+Nature is blooming, the trees have turned green and the days are warm and sunny. 🍃🌞 
+It's May and there are new wallpapers to match! 💻🙌🏼
 
-Choose your favorite wallpaper and enjoy spring to the fullest 🌷🤍!
+Choose your favorite wallpaper and enjoy spring to the fullest! 🌼🤍
+
 
 ## 📥 Usage
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
 **Download instructions:**
-1. go to [Releases](https://github.com/thisisnicollo/April_2024_Wallpaper/releases) on the right.
-2. select the desired language and device category (e.g. English/Desktop).
+1. go to [Releases](https://github.com/thisisnicollo/Wallpaper/releases) on the right.
+2. select the desired language and device category (e.g. English).
 3. click on the corresponding package (zip).
 4. unzip the ZIP file and use the contained images as background on your devices.
 
@@ -79,226 +83,82 @@ This collection were created by [thisisnicollo](https://github.com/thisisnicollo
 <div id="wallpaper"></div> 
 
 ## 🖥️ All Wallpapers
-The Wallpapers are available for desktop, smartphone and tablet. The calendars are available in German and English as well as in two fonts.
+The Wallpapers are available for desktop, smartphone and tablet. The calendars are available in German and English.
 
-### 🖥️ Desktop Sans Serif
+### 🖥️ Desktop
 
-#### 🇩🇪 [Deutsch](Deutsch/Desktop/Sans_Serif)
+#### 🇩🇪 [Deutsch](Deutsch/Desktop)
 <p align="center">
-  <img src="Deutsch/Desktop/Sans_Serif/01_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/02_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/03_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/04_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/05_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/06_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/07_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/08_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/09_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/10_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/11_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/12_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Sans_Serif/13_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/01_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/02_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/03_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/04_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/05_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/06_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/07_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/08_Desktop_DE.jpg" width="46%" />
 </p>
 
-#### 🇺🇸 [English](English/Desktop/Sans_Serif)
+#### 🇺🇸 [English](English/Desktop)
 <p align="center">
-  <img src="English/Desktop/Sans_Serif/01_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/02_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/03_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/04_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/05_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/06_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/07_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/08_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/09_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/10_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/11_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/12_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Sans_Serif/13_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/01_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/02_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/03_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/04_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/05_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/08_Desktop_EN.jpg" width="46%" />
 </p>
 
-### 🖥️ Desktop Serif
+### 📱 Smartphone
 
-#### 🇩🇪 [Deutsch](Deutsch/Desktop/Serif)
+#### 🇩🇪 [Deutsch](Deutsch/Smartphone)
 <p align="center">
-  <img src="Deutsch/Desktop/Serif/01_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/02_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/03_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/04_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/05_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/06_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/07_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/08_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/09_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/10_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/11_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/12_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/Serif/13_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/01_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/02_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/03_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/04_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/05_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/06_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/07_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/08_Smartphone_DE.jpg" width="15%" />
 </p>
 
-#### 🇺🇸 [English](English/Desktop/Serif)
+#### 🇺🇸 [English](English/Smartphone)
 <p align="center">
-  <img src="English/Desktop/Serif/01_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/02_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/03_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/04_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/05_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/06_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/07_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/08_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/09_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/10_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/11_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/Serif/12_Desktop_EN.jpg" width="46%" />
+  <img src="English/Smartphone/01_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/02_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/03_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/04_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/05_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/06_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/07_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/08_Smartphone_EN.jpg" width="15%" />
 </p>
 
-### 📱 Smartphone Sans Serif
+### 📱 Tablet
 
-#### 🇩🇪 [Deutsch](Deutsch/Smartphone/Sans_Serif)
+#### 🇩🇪 [Deutsch](Deutsch&/Tablet)
 <p align="center">
-  <img src="Deutsch/Smartphone/Sans_Serif/01_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/02_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/03_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/04_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/05_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/06_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/07_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/08_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/09_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/10_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/11_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/12_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/13_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Sans_Serif/14_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/01_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/02_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/03_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/04_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/05_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/08_Tablet_DE.jpg" width="15%" />
 </p>
 
-#### 🇺🇸 [English](English/Smartphone/Sans_Serif)
-<p align="center">
-  <img src="English/Smartphone/Sans_Serif/01_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/02_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/03_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/04_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/05_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/06_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/07_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/08_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/09_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/10_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/11_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/12_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/13_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Sans_Serif/14_Smartphone_EN.jpg" width="15%" />
-</p>
-
-### 📱 Smartphone Serif
-
-#### 🇩🇪 [Deutsch](Deutsch/Smartphone/Serif)
-<p align="center">
-  <img src="Deutsch/Smartphone/Serif/01_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/02_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/03_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/04_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/05_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/06_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/07_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/08_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/09_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/10_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/11_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/12_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/Serif/13_Smartphone_DE.jpg" width="15%" />
-</p>
-
-#### 🇺🇸 [English](English/Smartphone/Serif)
-<p align="center">
-  <img src="English/Smartphone/Serif/01_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/02_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/03_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/04_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/05_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/06_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/07_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/08_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/09_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/10_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/11_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/12_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/13_Smartphone_EN.jpg" width="15%" />
-  <img src="English/Smartphone/Serif/14_Smartphone_EN.jpg" width="15%" />
-</p>
-
-### 📱 Tablet Sans Serif
-
-#### 🇩🇪 [Deutsch](Deutsch&/Tablet/Sans_Serif)
-<p align="center">
-  <img src="Deutsch/Tablet/Sans_Serif/01_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/02_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/03_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/04_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/05_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/06_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/07_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/08_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/09_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/10_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/11_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/12_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/13_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Sans_Serif/14_Tablet_DE.jpg" width="15%" />
-</p>
-
-#### 🇺🇸 [English](English/Tablet/Sans_Serif)
+#### 🇺🇸 [English](English/Tablet)
 <p align="center"> 
-  <img src="English/Tablet/Sans_Serif/01_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/02_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/03_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/04_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/05_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/06_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/07_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/08_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/09_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/10_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/11_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/12_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/13_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Sans_Serif/14_Tablet_EN.jpg" width="15%" />
-</p>
-
-### 📱 Tablet Serif
-
-#### 🇩🇪 [Deutsch](Deutsch/Tablet/Serif)
-<p align="center">
-  <img src="Deutsch/Tablet/Serif/01_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/02_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/03_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/04_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/05_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/06_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/07_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/08_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/09_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/10_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/11_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/12_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/13_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/Serif/14_Tablet_DE.jpg" width="15%" />
-</p>
-
-#### 🇺🇸 [English](English/Tablet/Serif)
-<p align="center"> 
-  <img src="English/Tablet/Serif/01_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/02_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/03_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/04_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/05_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/06_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/07_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/08_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/09_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/10_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/11_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/12_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/13_Tablet_EN.jpg" width="15%" />
-  <img src="English/Tablet/Serif/14_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/01_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/02_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/03_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/04_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/05_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/06_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/07_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/08_Tablet_EN.jpg" width="15%" />
 </p>
