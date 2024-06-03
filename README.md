@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/05_2024_Wallpaper" alt="Mai 2024 Wallpaper Titel" width="">
+  <img src="Assets/05_2024_Wallpaper.jpg" alt="Mai 2024 Wallpaper Titel" width="">
 </p>
 
 # 🖼️ Mai 2024 Wallpaper 
