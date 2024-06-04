@@ -43,7 +43,7 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ May 2024 Wallpaper
+# 🖼️ June 2024 Wallpaper
 
 🇺🇸
 June is finally here and already summer has begun! ☀️✨ 
