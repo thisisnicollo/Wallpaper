@@ -111,12 +111,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/08_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/09_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/10_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/11_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/12_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/13_Desktop_EN.jpg" width="46%" />
-  <img src="Deutsch/Desktop/14_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/09_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/10_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/11_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/12_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/13_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/14_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Smartphone
@@ -149,12 +149,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Smartphone/06_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/07_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/08_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/09_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/10_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/11_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/12_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/13_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/14_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/09_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/10_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/11_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/12_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/13_Smartphone_EN.jpg" width="15%" />
+  <img src="English/Smartphone/14_Smartphone_EN.jpg" width="15%" />
 </p>
 
 ### 📱 Tablet
@@ -187,10 +187,10 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Tablet/06_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/07_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/08_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/09_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/10_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/11_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/12_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/13_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/14_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/09_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/10_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/11_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/12_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/13_Tablet_EN.jpg" width="15%" />
+  <img src="English/Tablet/14_Tablet_EN.jpg" width="15%" />
 </p>
