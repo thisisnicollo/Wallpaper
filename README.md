@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="Assets/05_2024_Wallpaper.jpg" alt="Mai 2024 Wallpaper Titel" width="">
+  <img src="Assets/06_2024_Wallpaper" alt="Juni 2024 Wallpaper Titel" width="">
 </p>
 
-# 🖼️ Mai 2024 Wallpaper 
+# 🖼️ Juni 2024 Wallpaper 
 
 🇩🇪
-Die Natur ist in voller Blüte, die Bäume sind grün, und die Tage sind warm und sonnig. 🍃🌞 
-Es ist Mai und passend dazu gibt es die neuen Wallpaper! 💻🙌🏼
-
-Wähle dein Lieblings-Wallpaper und genieße den Frühling in vollen Zügen! 🌼🤍
+Der Juni ist da und der Sommer beginnt! ☀️✨
+Die neuen Wallpaper bringen den skandinavischen Charme und die frische Sommerbrise direkt auf deinen Bildschirm. 🌻🫎🌿
 
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
@@ -48,10 +46,8 @@ Die folgenden Vorschaubilder sind für Desktop, Smartphone und Tablet erhältlic
 # 🖼️ May 2024 Wallpaper
 
 🇺🇸
-Nature is blooming, the trees have turned green and the days are warm and sunny. 🍃🌞 
-It's May and there are new wallpapers to match! 💻🙌🏼
-
-Choose your favorite wallpaper and enjoy spring to the fullest! 🌼🤍
+June is finally here and already summer has begun! ☀️✨ 
+The new wallpapers give you Scandinavian charm and a fresh summer breeze right on your screen. 🌻🫎🌿
 
 
 ## 📥 Usage
@@ -97,6 +93,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="Deutsch/Desktop/06_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/07_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/08_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/09_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/10_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/11_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/12_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/13_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/14_Desktop_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 [English](English/Desktop)
@@ -109,6 +111,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/08_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/09_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/10_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/11_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/12_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/13_Desktop_EN.jpg" width="46%" />
+  <img src="Deutsch/Desktop/14_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Smartphone
@@ -123,6 +131,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="Deutsch/Smartphone/06_Smartphone_DE.jpg" width="15%" />
   <img src="Deutsch/Smartphone/07_Smartphone_DE.jpg" width="15%" />
   <img src="Deutsch/Smartphone/08_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/09_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/10_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/11_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/12_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/13_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/14_Smartphone_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 [English](English/Smartphone)
@@ -135,6 +149,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Smartphone/06_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/07_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/08_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/09_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/10_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/11_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/12_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/13_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/14_Smartphone_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Tablet
@@ -149,6 +169,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="15%" />
   <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="15%" />
   <img src="Deutsch/Tablet/08_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/09_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/10_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/11_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/12_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/13_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/14_Tablet_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 [English](English/Tablet)
@@ -161,4 +187,10 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Tablet/06_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/07_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/08_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/09_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/10_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/11_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/12_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/13_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/14_Tablet_EN.jpg" width="46%" />
 </p>
