@@ -131,12 +131,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="Deutsch/Smartphone/06_Smartphone_DE.jpg" width="15%" />
   <img src="Deutsch/Smartphone/07_Smartphone_DE.jpg" width="15%" />
   <img src="Deutsch/Smartphone/08_Smartphone_DE.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/09_Smartphone_DE.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/10_Smartphone_DE.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/11_Smartphone_DE.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/12_Smartphone_DE.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/13_Smartphone_DE.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/14_Smartphone_DE.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/09_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/10_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/11_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/12_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/13_Smartphone_DE.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/14_Smartphone_DE.jpg" width="15%" />
 </p>
 
 #### 🇺🇸 [English](English/Smartphone)
@@ -149,12 +149,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Smartphone/06_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/07_Smartphone_EN.jpg" width="15%" />
   <img src="English/Smartphone/08_Smartphone_EN.jpg" width="15%" />
-  <img src="Deutsch/Smartphone/09_Smartphone_EN.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/10_Smartphone_EN.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/11_Smartphone_EN.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/12_Smartphone_EN.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/13_Smartphone_EN.jpg" width="46%" />
-  <img src="Deutsch/Smartphone/14_Smartphone_EN.jpg" width="46%" />
+  <img src="Deutsch/Smartphone/09_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/10_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/11_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/12_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/13_Smartphone_EN.jpg" width="15%" />
+  <img src="Deutsch/Smartphone/14_Smartphone_EN.jpg" width="15%" />
 </p>
 
 ### 📱 Tablet
@@ -169,12 +169,12 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="15%" />
   <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="15%" />
   <img src="Deutsch/Tablet/08_Tablet_DE.jpg" width="15%" />
-  <img src="Deutsch/Tablet/09_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/10_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/11_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/12_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/13_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/14_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/09_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/10_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/11_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/12_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/13_Tablet_DE.jpg" width="15%" />
+  <img src="Deutsch/Tablet/14_Tablet_DE.jpg" width="15%" />
 </p>
 
 #### 🇺🇸 [English](English/Tablet)
@@ -187,10 +187,10 @@ The Wallpapers are available for desktop, smartphone and tablet. The calendars a
   <img src="English/Tablet/06_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/07_Tablet_EN.jpg" width="15%" />
   <img src="English/Tablet/08_Tablet_EN.jpg" width="15%" />
-  <img src="Deutsch/Tablet/09_Tablet_EN.jpg" width="46%" />
-  <img src="Deutsch/Tablet/10_Tablet_EN.jpg" width="46%" />
-  <img src="Deutsch/Tablet/11_Tablet_EN.jpg" width="46%" />
-  <img src="Deutsch/Tablet/12_Tablet_EN.jpg" width="46%" />
-  <img src="Deutsch/Tablet/13_Tablet_EN.jpg" width="46%" />
-  <img src="Deutsch/Tablet/14_Tablet_EN.jpg" width="46%" />
+  <img src="Deutsch/Tablet/09_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/10_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/11_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/12_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/13_Tablet_EN.jpg" width="15%" />
+  <img src="Deutsch/Tablet/14_Tablet_EN.jpg" width="15%" />
 </p>
