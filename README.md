@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Assets/06_2024_Wallpaper.jpg" alt="Juni 2024 Wallpaper Titel" width="">
+  <img src="Assets/07_2024_Wallpaper.jpg" alt="Juli 2024 Wallpaper Titel" width="">
 </p>
 
-# 🖼️ Juni 2024 Wallpaper 
+# 🖼️ Juli 2024 Wallpaper 
 
 🇩🇪
 Hey Freunde, es schon wieder Zeit für die neuen Wallpaper!!🫶🏽
