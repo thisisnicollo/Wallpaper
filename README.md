@@ -137,18 +137,18 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Desktop/DE_Desktop_whitespace_12.jpg" width="46%" />
   <img src="Desktop/DE_Desktop_whitespace_13.jpg" width="46%" />
   <img src="Desktop/DE_Desktop_whitespace_14.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_01.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_02.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_03.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_04.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_05.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_06.jpg" width="46%" /> 
-  <img src="Desktop/DE_DE_Desktop_smile_D_07.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_08.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_09.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_10.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_11.jpg" width="46%" />
-  <img src="Desktop/DE_DE_Desktop_smile_D_12.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_01.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_02.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_03.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_04.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_05.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_06.jpg" width="46%" /> 
+  <img src="Desktop/DE_Desktop_smile_D_07.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_08.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_09.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_10.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_11.jpg" width="46%" />
+  <img src="Desktop/DE_Desktop_smile_D_12.jpg" width="46%" />
   <img src="Desktop/DE_Desktop_smile_W_01.jpg" width="46%" />
   <img src="Desktop/DE_Desktop_smile_W_02.jpg" width="46%" />
   <img src="Desktop/DE_Desktop_smile_W_03.jpg" width="46%" />
@@ -209,18 +209,18 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Desktop/EN_Desktop_whitespace_12.jpg" width="46%" />
   <img src="Desktop/EN_Desktop_whitespace_13.jpg" width="46%" />
   <img src="Desktop/EN_Desktop_whitespace_14.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_01.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_02.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_03.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_04.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_05.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_06.jpg" width="46%" /> 
-  <img src="Desktop/EN_DE_Desktop_smile_D_07.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_08.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_09.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_10.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_11.jpg" width="46%" />
-  <img src="Desktop/EN_DE_Desktop_smile_D_12.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_01.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_02.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_03.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_04.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_05.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_06.jpg" width="46%" /> 
+  <img src="Desktop/EN_Desktop_smile_D_07.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_08.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_09.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_10.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_11.jpg" width="46%" />
+  <img src="Desktop/EN_Desktop_smile_D_12.jpg" width="46%" />
   <img src="Desktop/EN_Desktop_smile_W_01.jpg" width="46%" />
   <img src="Desktop/EN_Desktop_smile_W_02.jpg" width="46%" />
   <img src="Desktop/EN_Desktop_smile_W_03.jpg" width="46%" />
@@ -363,28 +363,28 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Tablet/Tablet_behappy_01.jpg" width="46%" />
   <img src="Tablet/Tablet_behappy_02.jpg" width="46%" />
   <img src="Tablet/Tablet_behappy_03.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_emoji_01.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_emoji_02.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_emoji_03.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_emoji_04.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_emoji_05.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_emoji_01.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_emoji_02.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_emoji_03.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_emoji_04.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_emoji_05.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_01.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_02.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_03.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_04.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_05.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_01.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_02.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_03.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_04.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_05.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_06.jpg" width="46%" /> 
-  <img src="Tablet/Tablet_behappy_wallpaper_07.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_08.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_09.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_10.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_11.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_12.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_13.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_wallpaper_14.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper01.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper02.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper03.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper04.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper05.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper06.jpg" width="46%" /> 
+  <img src="Tablet/Tablet_behappy_wallpaper07.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper08.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper09.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper10.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper11.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper12.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper13.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_wallpaper14.jpg" width="46%" />
 </p>
