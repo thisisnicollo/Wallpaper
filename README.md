@@ -360,14 +360,14 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
 
 #### 🗽 Undated
 <p align="center">
-  <img src="Tablet/Tablet_behappy_01.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_02.jpg" width="46%" />
-  <img src="Tablet/Tablet_behappy_03.jpg" width="46%" />
-  <img src="Tablet/Tablet_happy_emoji_01.jpg" width="46%" />
-  <img src="Tablet/Tablet_happy_emoji_02.jpg" width="46%" />
-  <img src="Tablet/Tablet_happy_emoji_03.jpg" width="46%" />
-  <img src="Tablet/Tablet_happy_emoji_04.jpg" width="46%" />
-  <img src="Tablet/Tablet_happy_emoji_05.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_01.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_02.jpg" width="46%" />
+  <img src="Tablet/Tablet_happy_03.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_emoji_01.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_emoji_02.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_emoji_03.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_emoji_04.jpg" width="46%" />
+  <img src="Tablet/Tablet_behappy_emoji_05.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_01.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_02.jpg" width="46%" />
   <img src="Tablet/Tablet_girl_03.jpg" width="46%" />
