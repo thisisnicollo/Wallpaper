@@ -15,6 +15,8 @@ Deshalb denkt daran, mich in euren Posts/Storys zu markieren.🤗
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
 
+### [Hier downloaden (Proton Drive) ⬇️](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM)
+
 ## 📥 Nutzung
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
@@ -58,6 +60,7 @@ As always, they are available to download for desktop, tablet and phone.🤍
 I'm always very happy to see your wallpaper setups on Instagram.
 So remember to tag me in your posts/stories.🤗
 
+### [Download here (Proton Drive) ⬇️](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM)
 
 ## 📥 Usage
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
