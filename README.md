@@ -25,7 +25,7 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
-1. Gehe rechts den folgenden Link [Hier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM).
+1. Gehe rechts den folgenden Link [Hier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R).
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
@@ -75,7 +75,7 @@ Choose your favorite wallpaper and let yourself be carried away into a world ful
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
 **Download instructions:**
-1. go right to the following link [Download end-to-end encrypted here (Proton Drive)](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM).
+1. go right to the following link [Download end-to-end encrypted here (Proton Drive)](https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R).
 2. download either specific wallpaper or folder.
 3. unzip the ZIP file and use the contained images as wallpaper on your devices.
 
