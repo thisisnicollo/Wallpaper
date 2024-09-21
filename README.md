@@ -16,7 +16,7 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_DE.png" width="150%" alt="Download Button" />
+    <img src="Assets/Download_button_DE.png" width="100%" alt="Download Button" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Choose your favorite wallpaper and let yourself be carried away into a world ful
 
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_EN.png" width="150%" alt="Download Button" />
+    <img src="Assets/Download_button_EN.png" width="100%" alt="Download Button" />
   </a>
 </p>
 
