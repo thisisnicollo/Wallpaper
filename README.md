@@ -15,7 +15,7 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
 <p align="left">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+  <a href="https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R">
     <img src="Assets/Download_button_DE.png" width="66%" alt="Download Button" />
   </a>
 </p>
@@ -64,7 +64,7 @@ Choose your favorite wallpaper and let yourself be carried away into a world ful
 
 <br>
 <p align="left">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+  <a href="https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R">
     <img src="Assets/Download_button_EN.png" width="66%" alt="Download Button" />
   </a>
 </p>
