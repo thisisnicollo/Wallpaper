@@ -12,7 +12,7 @@ Diesmal habe ich mithilfe von KI diese einzigartigen Wallpaper erstellt, um die 
 Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe entführen. 🌿🌞
 
 
-[⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
+[⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br><br>
 
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
@@ -62,6 +62,7 @@ This time I've used AI to create these unique wallpapers to bring the magic of t
 
 Choose your favorite wallpaper and let yourself be carried away into a world full of magic and tranquility. 🌿🌞
 
+<br><br>
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
     <img src="Assets/Download_button_EN.png" width="66%" alt="Download Button" />
