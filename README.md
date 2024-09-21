@@ -18,7 +18,7 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
-1. Gehe rechts den folgenden Link [CHier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM).
+1. Gehe rechts den folgenden Link [Hier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM).
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
@@ -30,10 +30,17 @@ Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://
   <img src="Assets/Bild-3.jpg" width="33%" />
 </p>
 
+<p align="center">
+  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+    <img src="Assets/Download_button_DE.svg" width="33%" alt="Download Button" />
+  </a>
+</p>
+
 ## 📄 Hinweis
 Logos und Marken in diesen Hintergrundbildern gehören ihren jeweiligen Eigentümern. Ich möchte klarstellen, dass ich keine Rechte oder Eigentumsansprüche an ihnen geltend mache. Die Bilder wurden mithilfe von KI erstellt und basieren auf meiner kreativen Vision. Diese Wallpaper sind perfekt geeignet, um deinen Desktop, dein Tablet oder dein Smartphone zu verschönern. 🙏 
 
 Mir gehören lediglich der "Bär" und der Smiley, der auf einigen Wallpapern oder in den Vorschaubildern zu sehen ist. 🐻🙂
+Ebenso gehört mir der Downloadbutton.
 
 Die Nutzung der Wallpaper ist ausschließlich für private Zwecke bestimmt. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
@@ -71,10 +78,17 @@ You can find a short download guide here: [YouTube Tutorial](https://www.youtube
   <img src="Assets/Bild-3.jpg" width="33%" />
 </p>
 
+<p align="center">
+  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+    <img src="Assets/Download_button_EN.svg" width="33%" alt="Download Button" />
+  </a>
+</p>
+
 ## 📄 Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
 
 I only own the “bear” and the smiley that can be seen on some wallpapers or in the thumbnails. 🐻🙂
+I also own the download button.
 
 The use of the wallpapers is strictly for private purposes only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
