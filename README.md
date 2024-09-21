@@ -14,12 +14,11 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
-<p align="center">
+<p align="left">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
     <img src="Assets/Download_button_DE.png" width="66%" alt="Download Button" />
   </a>
 </p>
-<br>
 
 ## 📥 Nutzung
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
@@ -64,7 +63,7 @@ This time I've used AI to create these unique wallpapers to bring the magic of t
 Choose your favorite wallpaper and let yourself be carried away into a world full of magic and tranquility. 🌿🌞
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
     <img src="Assets/Download_button_EN.png" width="66%" alt="Download Button" />
   </a>
