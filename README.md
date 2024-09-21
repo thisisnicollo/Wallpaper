@@ -32,7 +32,7 @@ Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://
 
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_DE.svg" width="33%" alt="Download Button" />
+    <img src="Assets/Download_button_DE.png" width="33%" alt="Download Button" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ You can find a short download guide here: [YouTube Tutorial](https://www.youtube
 
 <p align="center">
   <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_EN.svg" width="33%" alt="Download Button" />
+    <img src="Assets/Download_button_EN.png" width="33%" alt="Download Button" />
   </a>
 </p>
 
