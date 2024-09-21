@@ -12,7 +12,14 @@ Diesmal habe ich mithilfe von KI diese einzigartigen Wallpaper erstellt, um die 
 Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe entführen. 🌿🌞
 
 
-[⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english)
+[⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
+
+<p align="center">
+  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+    <img src="Assets/Download_button_DE.png" width="66%" alt="Download Button" />
+  </a>
+</p>
+<br>
 
 ## 📥 Nutzung
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
@@ -28,12 +35,6 @@ Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://
   <img src="Assets/Bild-1.jpg" width="33%" />
   <img src="Assets/Bild-2.jpg" width="33%" /> 
   <img src="Assets/Bild-3.jpg" width="33%" />
-</p>
-
-<p align="center">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_DE.png" width="33%" alt="Download Button" />
-  </a>
 </p>
 
 ## 📄 Hinweis
@@ -62,6 +63,14 @@ This time I've used AI to create these unique wallpapers to bring the magic of t
 
 Choose your favorite wallpaper and let yourself be carried away into a world full of magic and tranquility. 🌿🌞
 
+<br>
+<p align="center">
+  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+    <img src="Assets/Download_button_EN.png" width="66%" alt="Download Button" />
+  </a>
+</p>
+<br>
+
 ## 📥 Usage
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
@@ -76,12 +85,6 @@ You can find a short download guide here: [YouTube Tutorial](https://www.youtube
   <img src="Assets/Bild-1.jpg" width="33%" />
   <img src="Assets/Bild-2.jpg" width="33%" /> 
   <img src="Assets/Bild-3.jpg" width="33%" />
-</p>
-
-<p align="center">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
-    <img src="Assets/Download_button_EN.png" width="33%" alt="Download Button" />
-  </a>
 </p>
 
 ## 📄 Disclaimer
