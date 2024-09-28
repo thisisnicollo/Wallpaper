@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="Assets/09_2024_Wallpaper.jpg" alt="September 2024 Wallpaper Titel" width="">
+  <img src="Assets/10_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
 </p>
 
-# September Release - Embrace the Late Summer Magic 🌿✨
+# October Release - Embrace the Autumn Glow🍂✨
 
-## 🖼️ September 2024 Wallpaper
+## 🖼️ Oktober 2024 Wallpaper
 🇩🇪
-Der Spätsommer zeigt sich von seiner schönsten Seite: grüne Wiesen, sanfte Landschaften und eine zauberhafte Atmosphäre. 🌳🌅 
-Diesmal habe ich mithilfe von KI diese einzigartigen Wallpaper erstellt, um die Magie des ausklingenden Sommers direkt auf deinen Bildschirm zu bringen. 🌟🤖
+Der Oktober lädt uns ein, die Schönheit des Herbstes in vollen Zügen zu genießen. 🌰🧡 
+Die ausgewählten Wallpaper sollen die warmen und einladenden Momente dieser Jahreszeit auf deinen Bildschirm bringen. 🌅🍁 
 
-Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe entführen. 🌿🌞
+Wähle dein Lieblings-Wallpaper und lass dich von der zauberhaften Atmosphäre des Herbstes verzaubern. 🍂✨
 
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
 <p align="left">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+  <a href="https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R">
     <img src="Assets/Download_button_DE.png" width="66%" alt="Download Button" />
   </a>
 </p>
@@ -24,7 +24,7 @@ Wähle dein Lieblings-Wallpaper und lass dich in eine Welt voller Magie und Ruhe
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
-1. Gehe rechts den folgenden Link [Hier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R).
+1. Gehe rechts auf den folgenden Link [Hier Ende-zu-Ende-verschlüsselt downloaden (Proton Drive)](https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R).
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
@@ -54,17 +54,17 @@ Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlic
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ September 2024 Wallpaper
+# 🖼️ October 2024 Wallpaper
 
 🇺🇸
-Late summer is at its best: green meadows, gentle landscapes and a magical atmosphere. 🌳🌅 
-This time I've used AI to create these unique wallpapers to bring the magic of the end of summer directly to your screen. 🌟🤖
+In October we are invited to enjoy the beauty of autumn to the full. 🌰🧡 
+The chosen wallpapers are designed to bring the warm and welcoming moments of the season to your screen. 🌅🍁 
 
-Choose your favorite wallpaper and let yourself be carried away into a world full of magic and tranquility. 🌿🌞
+Choose your favourite wallpaper and be enchanted by the magical atmosphere of autumn. 🍂✨
 
 <br>
 <p align="left">
-  <a href="https://drive.proton.me/urls/0NE39078YR#gCR3Dlyj8xzM">
+  <a href="https://drive.proton.me/urls/6TTT677NV0#k5EdKtQtYp5R">
     <img src="Assets/Download_button_EN.png" width="66%" alt="Download Button" />
   </a>
 </p>
@@ -128,10 +128,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Desktop/18_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/19_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/20_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/21_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/22_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/23_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/24_Desktop_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -157,10 +153,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Desktop/18_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/19_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/20_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/21_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/22_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/23_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/24_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Phone
@@ -187,10 +179,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Phone/18_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/19_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/20_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/21_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/22_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/23_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/24_Phone_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -215,10 +203,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Phone/18_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/19_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/20_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/21_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/22_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/23_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/24_Phone_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Tablet
@@ -245,10 +229,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Tablet/18_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/19_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/20_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/21_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/22_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/23_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/24_Tablet_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -273,8 +253,4 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Tablet/18_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/19_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/20_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/21_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/22_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/23_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/24_Tablet_EN.jpg" width="46%" />
 </p>
