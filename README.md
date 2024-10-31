@@ -29,8 +29,8 @@ Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzu
 Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
 
 <p align="center">
-  <img src="Assets/Bild-1.jpg" width="33%" />
-  <img src="Assets/Bild-2.jpg" width="33%" /> 
+  <img src="Assets/Bild-2.jpg" width="33%" />
+  <img src="Assets/Bild-1.jpg" width="33%" /> 
   <img src="Assets/Bild-3.jpg" width="33%" />
 </p>
 
@@ -76,12 +76,6 @@ Please note that the use of the images is strictly for personal use only. Any co
 3. unzip the ZIP file and use the contained images as wallpaper on your devices.
 
 You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
-
-<p align="center">
-  <img src="Assets/Bild-1.jpg" width="33%" />
-  <img src="Assets/Bild-2.jpg" width="33%" /> 
-  <img src="Assets/Bild-3.jpg" width="33%" />
-</p>
 
 ## 📄 Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
