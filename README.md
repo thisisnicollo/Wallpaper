@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="Assets/10_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
+  <img src="Assets/11_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
 </p>
 
-# October Release - Embrace the Autumn Glow🍂✨
+# November Release - Celebrate the Tranquil Fall 🌙🐿️
 
-## 🖼️ Oktober 2024 Wallpaper
+## 🖼️ November 2024 Wallpaper
 🇩🇪
-Der Oktober lädt uns ein, die Schönheit des Herbstes in vollen Zügen zu genießen. 🌰🧡 
-Die ausgewählten Wallpaper sollen die warmen und einladenden Momente dieser Jahreszeit auf deinen Bildschirm bringen. 🌅🍁 
+Der November bringt uns eine ruhige, besinnliche Zeit, in der die Natur sich in eine sanfte Palette aus warmen Erdtönen hüllt. 🌳🍂 Die ausgewählten Wallpaper zeigen beeindruckende Landschaften von Wäldern, majestätischen Bergen und stimmungsvollen Straßen, die durch herbstliche Wälder führen. 🌌🌙🌲
 
-Wähle dein Lieblings-Wallpaper und lass dich von der zauberhaften Atmosphäre des Herbstes verzaubern. 🍂✨
-
+Wähle dein Lieblings-Wallpaper und lasse dich von der friedlichen Atmosphäre des Novembers verzaubern! 🍁✨
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
@@ -57,10 +55,9 @@ Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlic
 # 🖼️ October 2024 Wallpaper
 
 🇺🇸
-In October we are invited to enjoy the beauty of autumn to the full. 🌰🧡 
-The chosen wallpapers are designed to bring the warm and welcoming moments of the season to your screen. 🌅🍁 
+November brings us a quiet, contemplative time when nature is wrapped in a soft palette of warm, earthy colours. 🌳🍂 The selected wallpapers present stunning landscapes of forests, majestic mountains and atmospheric roads through autumnal forests. 🌌🌙🌲
 
-Choose your favourite wallpaper and be enchanted by the magical atmosphere of autumn. 🍂✨
+Choose your favourite wallpaper and be enchanted by the peaceful atmosphere of November! 🍁✨
 
 <br>
 <p align="left">
@@ -114,20 +111,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Desktop/05_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/06_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/07_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/08_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/09_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/10_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/11_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/12_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/13_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/14_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/14_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/15_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/16_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/17_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/18_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/19_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/20_Desktop_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -139,20 +122,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Desktop/05_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/08_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/09_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/10_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/11_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/12_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/13_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/14_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/14_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/15_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/16_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/17_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/18_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/19_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/20_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Phone
@@ -166,19 +135,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Phone/05_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/06_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/07_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/08_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/09_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/10_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/11_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/12_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/13_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/14_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/15_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/16_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/17_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/18_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/19_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/20_Phone_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -190,19 +146,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Phone/05_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/06_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/07_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/08_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/09_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/10_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/11_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/12_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/13_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/14_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/15_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/16_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/17_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/18_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/19_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/20_Phone_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Tablet
@@ -216,19 +159,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Tablet/05_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/08_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/09_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/10_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/11_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/12_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/13_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/14_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/15_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/16_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/17_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/18_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/19_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/20_Tablet_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -240,17 +170,4 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Tablet/05_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/06_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/07_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/08_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/09_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/10_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/11_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/12_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/13_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/14_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/15_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/16_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/17_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/18_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/19_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/20_Tablet_EN.jpg" width="46%" />
 </p>
