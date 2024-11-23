@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/11_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
+  <img src="Assets/12_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
 </p>
 
 # November Release - Celebrate the Tranquil Fall 🌙🐿️
