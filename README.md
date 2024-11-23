@@ -26,7 +26,7 @@ Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzu
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
-Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
+Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://youtube.com/playlist?list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3&si=6PuyL6tiok738gcm) 
 
 <p align="center">
   <img src="Assets/Bild-2.jpg" width="33%" />
@@ -75,7 +75,7 @@ Please note that the use of the images is strictly for personal use only. Any co
 2. download either specific wallpaper or folder.
 3. unzip the ZIP file and use the contained images as wallpaper on your devices.
 
-You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
+You can find a short download guide here: [YouTube Tutorial](https://youtube.com/playlist?list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3&si=6PuyL6tiok738gcm) 
 
 ## 📄 Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
