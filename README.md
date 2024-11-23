@@ -2,13 +2,13 @@
   <img src="Assets/12_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
 </p>
 
-# November Release - Celebrate the Tranquil Fall 🌙🐿️
+# Dezember Release – Winterzauber für deinen Bildschirm ❄️🎄
 
-## 🖼️ November 2024 Wallpaper
+## 🖼️ Dezember 2024 Wallpaper
 🇩🇪
-Der November bringt uns eine ruhige, besinnliche Zeit, in der die Natur sich in eine sanfte Palette aus warmen Erdtönen hüllt. 🌳🍂 Die ausgewählten Wallpaper zeigen beeindruckende Landschaften von Wäldern, majestätischen Bergen und stimmungsvollen Straßen, die durch herbstliche Wälder führen. 🌌🌙🌲
+Der Dezember bringt eine zauberhafte Winterwelt voller festlicher Magie und frostiger Eleganz. ⛄🧣❄️ Die ausgewählten Wallpaper entführen dich in verschneite Landschaften, funkelnde Lichtermeere und gemütliche Weihnachtsstimmungen. 🌟✨
 
-Wähle dein Lieblings-Wallpaper und lasse dich von der friedlichen Atmosphäre des Novembers verzaubern! 🍁✨
+Wähle dein Lieblings-Wallpaper und lass die winterliche Festtagsatmosphäre auf deinen Bildschirm einziehen! 🎅🏼🌌🎁
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
@@ -52,12 +52,12 @@ Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlic
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ October 2024 Wallpaper
+# 🖼️ December 2024 Wallpaper
 
 🇺🇸
-November brings us a quiet, contemplative time when nature is wrapped in a soft palette of warm, earthy colours. 🌳🍂 The selected wallpapers present stunning landscapes of forests, majestic mountains and atmospheric roads through autumnal forests. 🌌🌙🌲
+December brings a magical winter wonderland full of festive magic and frosty elegance. ⛄🧣❄️ The selected wallpapers will whisk you away to snowy landscapes, sparkling seas of lights and cozy Christmas moods. 🌟✨
 
-Choose your favourite wallpaper and be enchanted by the peaceful atmosphere of November! 🍁✨
+Choose your favorite wallpaper and let the winter festive atmosphere fill your screen! 🎅🏼🌌🎁
 
 <br>
 <p align="left">
@@ -103,8 +103,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Desktop/03_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/04_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/05_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/06_Desktop_DE.jpg" width="46%" />
-  <img src="Deutsch/Desktop/07_Desktop_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -114,8 +112,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Desktop/03_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/04_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/05_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
-  <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Phone
@@ -127,8 +123,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Phone/03_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/04_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/05_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/06_Phone_DE.jpg" width="46%" />
-  <img src="Deutsch/Phone/07_Phone_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -138,8 +132,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Phone/03_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/04_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/05_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/06_Phone_EN.jpg" width="46%" />
-  <img src="English/Phone/07_Phone_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Tablet
@@ -151,8 +143,6 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Tablet/03_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/04_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/05_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="46%" />
-  <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -162,6 +152,4 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Tablet/03_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/04_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/05_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/06_Tablet_EN.jpg" width="46%" />
-  <img src="English/Tablet/07_Tablet_EN.jpg" width="46%" />
 </p>
