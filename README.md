@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="Assets/12_2024_Wallpaper.jpg" alt="Okotber 2024 Wallpaper Titel" width="">
+  <img src="Assets/01_2025_Wallpaper.jpg" alt="Januar 2025 Wallpaper Titel" width="">
 </p>
 
-# Dezember Release – Winterzauber für deinen Bildschirm ❄️🎄
+# Januar Release – Ein gemütlicher Start ins neue Jahr ✨📖
 
-## 🖼️ Dezember 2024 Wallpaper
-🇩🇪
-Der Dezember bringt eine zauberhafte Winterwelt voller festlicher Magie und frostiger Eleganz. ⛄🧣❄️ Die ausgewählten Wallpaper entführen dich in verschneite Landschaften, funkelnde Lichtermeere und gemütliche Weihnachtsstimmungen. 🌟✨
+## 🖼️ Januar 2025 Wallpaper
 
-Wähle dein Lieblings-Wallpaper und lass die winterliche Festtagsatmosphäre auf deinen Bildschirm einziehen! 🎅🏼🌌🎁
+🇩🇪 
+Der Januar läutet ein neues Kapitel ein – Zeit für frische Anfänge und klare Ziele. 🌟🍵 Die neuen Wallpaper bringen dir die Wärme von Hogwarts und die gemütliche Stimmung des Winters direkt auf deinen Bildschirm. 🏰✨
+
+Lass dich von den magischen Bildern inspirieren und starte das Jahr mit Fokus und Ruhe. Wähle dein Lieblings-Wallpaper und setze Prioritäten mit Stil und Zauber! 🖥️📱
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
@@ -26,7 +27,7 @@ Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzu
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
-Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://youtube.com/playlist?list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3&si=6PuyL6tiok738gcm) 
+Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/watch?v=GVzCxlLNx2Q&list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3) 
 
 <p align="center">
   <img src="Assets/Bild-2.jpg" width="33%" />
@@ -52,12 +53,12 @@ Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlic
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ December 2024 Wallpaper
+# 🖼️ January 2025 Wallpaper
 
 🇺🇸
-December brings a magical winter wonderland full of festive magic and frosty elegance. ⛄🧣❄️ The selected wallpapers will whisk you away to snowy landscapes, sparkling seas of lights and cozy Christmas moods. 🌟✨
+January is the start of a new chapter - a time for new beginnings and clear goals. 🌟🍵 The new wallpapers bring the warmth of Hogwarts and the cozy atmosphere of winter straight to your desktop. 🏰✨
 
-Choose your favorite wallpaper and let the winter festive atmosphere fill your screen! 🎅🏼🌌🎁
+Be inspired by the magical images and start the year with focus and calm. Choose your favourite wallpaper and set your goals with style and magic! 🖥️📱
 
 <br>
 <p align="left">
@@ -75,7 +76,7 @@ Please note that the use of the images is strictly for personal use only. Any co
 2. download either specific wallpaper or folder.
 3. unzip the ZIP file and use the contained images as wallpaper on your devices.
 
-You can find a short download guide here: [YouTube Tutorial](https://youtube.com/playlist?list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3&si=6PuyL6tiok738gcm) 
+You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/watch?v=GVzCxlLNx2Q&list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3) 
 
 ## 📄 Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
