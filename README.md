@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/01_2025_Wallpaper.jpg" alt="Januar 2025 Wallpaper Titel" width="">
+  <img src="Assets/Wallpaper_Cover.jpg" alt="Wallpaper Cover" width="">
 </p>
 
 # Januar Release – Ein gemütlicher Start ins neue Jahr ✨📖
