@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/12_2025_Wallpaper.jpg" alt="Okotber 2025 Wallpaper Titel" width="">
+  <img src="Assets/12_2025_Wallpaper.jpg" alt="Februar 2025 Wallpaper Titel" width="">
 </p>
 
 # Februar Release – Winterliche Gemütlichkeit für deinen Bildschirm ❄️🐻‍❄️
