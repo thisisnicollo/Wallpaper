@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="Assets/12_2025_Wallpaper.jpg" alt="Februar 2025 Wallpaper Titel" width="">
+  <img src="Assets/01_2025_Wallpaper.jpg" alt="Januar 2025 Wallpaper Titel" width="">
 </p>
 
-# Februar Release – Winterliche Gemütlichkeit für deinen Bildschirm ❄️🐻‍❄️
+# Januar Release – Ein gemütlicher Start ins neue Jahr ✨📖
 
-## 🖼️ Februar 2025 Wallpaper
-🇩🇪
-Der Februar bringt kühle Wintervibes und gemütliche Atmosphäre direkt auf deinen Bildschirm. 🌊💙 Die neuen Wallpaper tauchen deinen Desktop oder dein Handy in sanfte Blautöne und winterlichen Charme. ❄️✨
+## 🖼️ Januar 2025 Wallpaper
 
-Lass dich von einem süßen schwimmenden Eisbären inspirieren und schaffe dir eine ruhige, fokussierte Arbeitsumgebung. 🧣🎧 Hol dir die neuen Wallpaper und genieße die kalte Schönheit des Winters mit einem Hauch von Gemütlichkeit. 🖥️📱
+🇩🇪 
+Der Januar läutet ein neues Kapitel ein – Zeit für frische Anfänge und klare Ziele. 🌟🍵 Die neuen Wallpaper bringen dir die Wärme von Hogwarts und die gemütliche Stimmung des Winters direkt auf deinen Bildschirm. 🏰✨
+
+Lass dich von den magischen Bildern inspirieren und starte das Jahr mit Fokus und Ruhe. Wähle dein Lieblings-Wallpaper und setze Prioritäten mit Stil und Zauber! 🖥️📱
 
 [⏬💗Wallpaper Vorschau](#wallpaper)<br><br>[⏬🇺🇸English below](#english) <br>
 
@@ -26,7 +27,7 @@ Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzu
 2. Entweder bestimmtes Wallpaper oder Ordner downloaden.
 3. Entpacke die ZIP-Datei und verwende die enthaltenen Bilder als Hintergrund auf deinen Geräten.
 
-Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
+Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://www.youtube.com/watch?v=GVzCxlLNx2Q&list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3) 
 
 <p align="center">
   <img src="Assets/Bild-2.jpg" width="33%" />
@@ -52,12 +53,12 @@ Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlic
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ February 2025 Wallpaper
+# 🖼️ January 2025 Wallpaper
 
 🇺🇸
-February is the perfect month to bring some winter vibes and a cosy atmosphere straight to your screen. 🌊💙 The new wallpapers are here, and they're like a warm hug for your desktop or mobile phone, with their soft blue tones and wintry charm. ❄️✨
+January is the start of a new chapter - a time for new beginnings and clear goals. 🌟🍵 The new wallpapers bring the warmth of Hogwarts and the cozy atmosphere of winter straight to your desktop. 🏰✨
 
-We've got a cute swimming polar bear to inspire you, so you can create a calm and focused working environment. 🧣🎧 Get the new wallpapers and enjoy the cold beauty of winter with a touch of cosiness. 🖥️📱
+Be inspired by the magical images and start the year with focus and calm. Choose your favourite wallpaper and set your goals with style and magic! 🖥️📱
 
 <br>
 <p align="left">
@@ -75,7 +76,7 @@ Please note that the use of the images is strictly for personal use only. Any co
 2. download either specific wallpaper or folder.
 3. unzip the ZIP file and use the contained images as wallpaper on your devices.
 
-You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
+You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/watch?v=GVzCxlLNx2Q&list=PLLoxSdp_j-L1shpKRpgo8UCbjiNiIMjk3) 
 
 ## 📄 Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
@@ -103,10 +104,25 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Desktop/03_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/04_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/05_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/05_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/06_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/07_Desktop_DE.jpg" width="46%" />
   <img src="Deutsch/Desktop/08_Desktop_DE.jpg" width="46%" />
-</p>
+  <img src="Deutsch/Desktop/09_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/10_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/11_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/12_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/13_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/14_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/15_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/16_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/17_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/18_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/19_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/20_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/21_Desktop_DE.jpg" width="46%" />
+  <img src="Deutsch/Desktop/22_Desktop_DE.jpg" width="46%" />
+  </p>
 
 #### 🇺🇸 English
 <p align="English">
@@ -115,9 +131,24 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Desktop/03_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/04_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/05_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/05_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/06_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/07_Desktop_EN.jpg" width="46%" />
   <img src="English/Desktop/08_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/09_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/10_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/11_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/12_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/13_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/14_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/15_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/16_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/17_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/18_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/19_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/20_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/21_Desktop_EN.jpg" width="46%" />
+  <img src="English/Desktop/22_Desktop_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Phone
@@ -129,9 +160,20 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Phone/03_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/04_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/05_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/05_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/06_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/07_Phone_DE.jpg" width="46%" />
   <img src="Deutsch/Phone/08_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/09_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/10_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/11_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/12_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/13_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/14_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/15_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/16_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/17_Phone_DE.jpg" width="46%" />
+  <img src="Deutsch/Phone/18_Phone_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -141,9 +183,20 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Phone/03_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/04_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/05_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/05_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/06_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/07_Phone_EN.jpg" width="46%" />
   <img src="English/Phone/08_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/09_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/10_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/11_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/12_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/13_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/14_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/15_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/16_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/17_Phone_EN.jpg" width="46%" />
+  <img src="English/Phone/18_Phone_EN.jpg" width="46%" />
 </p>
 
 ### 📱 Tablet
@@ -155,9 +208,20 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="Deutsch/Tablet/03_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/04_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/05_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/05_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/06_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/07_Tablet_DE.jpg" width="46%" />
   <img src="Deutsch/Tablet/08_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/09_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/10_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/11_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/12_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/13_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/14_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/15_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/16_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/17_Tablet_DE.jpg" width="46%" />
+  <img src="Deutsch/Tablet/18_Tablet_DE.jpg" width="46%" />
 </p>
 
 #### 🇺🇸 English
@@ -167,7 +231,18 @@ The Wallpapers are available for desktop, phone and tablet. The calendars are av
   <img src="English/Tablet/03_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/04_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/05_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/05_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/06_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/07_Tablet_EN.jpg" width="46%" />
   <img src="English/Tablet/08_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/09_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/10_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/11_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/12_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/13_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/14_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/15_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/16_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/17_Tablet_EN.jpg" width="46%" />
+  <img src="English/Tablet/18_Tablet_EN.jpg" width="46%" />
 </p>
