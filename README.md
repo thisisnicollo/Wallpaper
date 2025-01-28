@@ -2,9 +2,9 @@
   <img src="Assets/Wallpaper_Cover.jpg" alt="Februar 2025 Wallpaper" width="">
 </p>
 
-# Februar Release – Winterliche Gemütlichkeit für deinen Bildschirm ❄️🐻‍❄️
+# Februar Release – Winterliche Gemütlichkeit für deinen Bildschirm <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" alt="Snowflake" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="Polar Bear" width="50" height="50" /> 
 
-## 🖼️ Februar 2025 Wallpaper
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="30" height="30" /> Februar 2025 Wallpaper 
 🇩🇪
 Der Februar bringt kühle Wintervibes und gemütliche Atmosphäre direkt auf deinen Bildschirm. 🌊💙 Die neuen Wallpaper tauchen deinen Desktop oder dein Handy in sanfte Blautöne und winterlichen Charme. ❄️✨
 
@@ -18,7 +18,7 @@ Lass dich von einem süßen schwimmenden Eisbären inspirieren und schaffe dir e
   </a>
 </p>
 
-## 📥 Nutzung
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Nutzung
 Bitte beachte, dass die Nutzung der Bilder ausschließlich für die privatenutzung bestimmt ist. Jegliche kommerzielle Nutzung oder Weiterverbreitung der Bilder ist ohne ausdrückliche Genehmigung der Rechteinhaber untersagt.
 
 **Download-Anleitung:**
@@ -34,7 +34,7 @@ Eine kurze Anleitung zum Downloaden findest du hier: [YouTube Tutorial](https://
   <img src="Assets/Bild-3.jpg" width="33%" />
 </p>
 
-## 📄 Hinweis
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="30" height="30" /> Hinweis
 Logos und Marken in diesen Hintergrundbildern gehören ihren jeweiligen Eigentümern. Ich möchte klarstellen, dass ich keine Rechte oder Eigentumsansprüche an ihnen geltend mache. Die Bilder wurden mithilfe von KI erstellt und basieren auf meiner kreativen Vision. Diese Wallpaper sind perfekt geeignet, um deinen Desktop, dein Tablet oder dein Smartphone zu verschönern. 🙏 
 
 Mir gehören lediglich der "Bär" und der Smiley, der auf einigen Wallpapern oder in den Vorschaubildern zu sehen ist. 🐻🙂
@@ -47,12 +47,12 @@ Ich möchte sicherstellen, dass alle Rechte Respektiert werden und darum die ent
 
 Diese Sammlung wurde von [thisisnicollo](https://github.com/thisisnicollo) erstellt. <div id="english"></div> 
 
-## 🖥️ Alle Wallpaper
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> Alle Wallpaper
 Die folgenden Vorschaubilder sind für Desktop, Samrtphone und Tablet erhältlich. Die Kalender auf Deutsch sowie auf Englisch erhältlich. <br>
 [⏬💗Wallpaper Vorschau](#wallpaper)
 
 
-# 🖼️ February 2025 Wallpaper
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="30" height="30" /> February 2025 Wallpaper
 
 🇺🇸
 February is the perfect month to bring some winter vibes and a cosy atmosphere straight to your screen. 🌊💙 The new wallpapers are here, and they're like a warm hug for your desktop or mobile phone, with their soft blue tones and wintry charm. ❄️✨
@@ -67,7 +67,7 @@ We've got a cute swimming polar bear to inspire you, so you can create a calm an
 </p>
 <br>
 
-## 📥 Usage
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />  Usage
 Please note that the use of the images is strictly for personal use only. Any commercial use or redistribution of the images is prohibited without the explicit permission of the copyright holders.
 
 **Download instructions:**
@@ -77,7 +77,7 @@ Please note that the use of the images is strictly for personal use only. Any co
 
 You can find a short download guide here: [YouTube Tutorial](https://www.youtube.com/@thisisnicollo) 
 
-## 📄 Disclaimer
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="30" height="30" /> Disclaimer
 Logos and trademarks in these wallpapers belong to their respective owners. I want to make it clear that I do not claim any rights or ownership over them. The images were created using AI and are based on my creative vision. These wallpapers are perfect to beautify your desktop, tablet or phone. 🙏 
 
 I only own the “bear” and the smiley that can be seen on some wallpapers or in the thumbnails. 🐻🙂
@@ -91,7 +91,7 @@ I want to ensure that all rights are respected and will take appropriate action 
 This collection were created by [thisisnicollo](https://github.com/thisisnicollo).
 <div id="wallpaper"></div> 
 
-## 🖥️ All Wallpapers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> All Wallpapers
 The Wallpapers are available for desktop, phone and tablet. The calendars are available in German and English.
 
 ### 🖥️ Desktop
